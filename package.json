@@ -1,0 +1,21 @@
+{
+  "name": "windows-xp-dark",
+  "displayName": "Windows XP Dark Luna",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Windows Xp Dark Luna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Windows Xp Dark Luna-color-theme.json"
+      }
+    ]
+  }
+}
