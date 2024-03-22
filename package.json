@@ -1,8 +1,24 @@
 {
   "name": "windows-xp-dark",
-  "displayName": "Windows XP Dark Luna",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Windows XP Dark",
+  "description": "Windows XP Dark Luna theme for VS Code",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mssjim/windows-xp-dark"
+  },
+  "author": {
+		"name": "Yohan Lasorsa",
+		"url": "https://twitter.com/mrmssjim"
+	},
+  "homepage": "https://github.com/Mssjim/windows-xp-dark",
+  "bugs": {
+    "url": "https://github.com/Mssjim/windows-xp-dark/issues"
+  },
+  "license": "MIT",
+  "publisher": "mssjim",
+  "preview": true,
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -14,8 +30,22 @@
       {
         "label": "Windows Xp Dark Luna",
         "uiTheme": "vs-dark",
-        "path": "./themes/Windows Xp Dark Luna-color-theme.json"
+        "path": "./themes/windows-xp-dark.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "windows",
+    "xp",
+    "dark",
+    "classic",
+    "luna",
+    "customization",
+    "retro",
+    "win",
+    "winxp",
+    "mssjim"
+  ]
 }
