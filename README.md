@@ -3,7 +3,7 @@
 > A theme extension for [Visual Studio Code](https://code.visualstudio.com/) based on the Windows XP "Luna" theme and the intelij darcula theme.
 
 <p align="center">
-  <img alt="" src="https://raw.githubusercontent.com/Mssjim/windows-xp-dark/main/preview.jpg"/>
+  <img alt="" src="https://raw.githubusercontent.com/Mssjim/windows-xp-dark/master/preview.jpg"/>
 </p>
 
 ### [Test it online!](https://vscode.dev/theme/mssjim.windows-xp-dark) 
